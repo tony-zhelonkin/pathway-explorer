@@ -1,0 +1,2 @@
+[console_scripts]
+pathway-explorer = pathway_explorer.main:main
